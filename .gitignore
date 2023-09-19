@@ -1,0 +1,35 @@
+# Node.js
+node_modules/
+
+# Build files
+.next/
+out/
+build/
+dist/
+
+# Cache
+.cache/
+.cache-loader/
+.nuxt/
+yarn-error.log
+
+# Logs
+logs
+*.log
+
+# Environment variables
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.swp
+*.swo
+
+# Visual Studio Code
+.vscode/
